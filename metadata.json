@@ -1,0 +1,6 @@
+{
+  "name": "Personalidade Corporativa",
+  "description": "Descubra a personalidade e essência da sua empresa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
